@@ -8,20 +8,8 @@ This repository is just for Reference. Only Clone if you know how to run and edi
 
 # Installation:
 
-- Git-Clone this repo, or download in Zip using the button above.
+- Download here -> [![Download zip](/src/svgs/download-btn.svg "Download zip")](https://github.com/Reubzz/birthday-website/archive/refs/heads/master.zip).
 
-- Install Nodejs from [here](https://nodejs.org/en/download).
-
-- Open Terminal in Repository folder & install dependencies.
-
-  ```
-  npm i
-  ```
-
-- Run the app using
-
-  ```
-  node index.js
-  ```
+- Open `Atiya.html`
 
 MIT License - Free to use
