@@ -8,7 +8,7 @@ This repository is just for Reference. Only Clone if you know how to run and edi
 
 - Download here
 
-  [![Download zip](/src/svgs/download-btn.svg "Download zip")](https://github.com/Reubzz/birthday-website/archive/refs/heads/master.zip).
+  [![Download zip](/src/svgs/download-btn.svg "Download zip")](https://github.com/Reubzz/birthday-website/archive/refs/heads/master.zip)+
 
 - Open `Atiya.html`
 
